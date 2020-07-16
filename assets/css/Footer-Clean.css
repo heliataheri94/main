@@ -84,3 +84,185 @@
   opacity: 0.6;
 }
 
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  text-align: center;
+}
+
+#imageheading-heading2 {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+#imghead-link {
+  font-size: xx-large;
+}
+
+#image-4k {
+  position: relative;
+}
+
+#img {
+  position: relative;
+}
+
+#imageheading-heading-1 {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.gradiant_banner {
+  background-image: linear-gradient(140deg, #fe7142 0%, #cb4fc2 50%, #9A57E8 75%, #53A0E8 100%);
+}
+
+#facetime {
+}
+
+@media (max-width: 768px) {
+  #facetime-1 {
+    height: 1000px!important;
+  }
+}
+
+@media (min-width: 300px) {
+  .d-inline.d-sm-inline.d-md-none.d-lg-none.d-xl-none {
+    height: 400px!important;
+  }
+}
+
+.cpallapseFooter > ul {
+  list-style: none;
+  line-height: 1.6;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.cpallapseFooter ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+#second-nav {
+  direction: rtl;
+}
+
+.nav.navbar-nav.flex-grow-1.justify-content-between {
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  #liketv-div {
+    background-image: url("../../assets/img/apple_tv_app__gikoltu54mem_small.jpg")!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #arcade-div {
+    background-image: url("../../assets/img/appletv_arcade_tile_wide__ctzdx1vfseye_small.jpg")!important;
+  }
+}
+
+#col4-heading1-1 {
+  color: white;
+}
+
+#col4-heading2-5 {
+  color: white;
+}
+
+#sda {
+  text-align: left;
+}
+
+#dfdf {
+  border-radius: 58px;
+  font-size: larger;
+}
+
+@media (max-width: 768px) {
+  #iPad-2 {
+    background-image: url("../../assets/img/ipad_pro_hero__c60u09fxbrsm_small.jpg")!important;
+    background-position: calc(50% + 96px) calc(0% + 45px + 66px)!important;
+    padding-bottom: 0px!important;
+    background-color: #fff!important;
+    padding-top: calc(66px + 310px)!important;
+    background-size: 542px 259px!important;
+    height: 700px!important;
+    margin-top: -150px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  #iPad-2 {
+    background-image: url("../../assets/img/ipad_mini__fzubv0kakkuq_small.jpg")!important;
+    padding-bottom: 0px!important;
+    background-color: #fff!important;
+    padding-top: calc(66px + 310px)!important;
+    background-size: 542px 259px!important;
+    height: 700px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #iPad {
+    background-image: url("../../assets/img/ipad_pro_hero__c60u09fxbrsm_small.jpg")!important;
+    background-position: calc(50% + 96px) calc(0% + 45px + 66px)!important;
+    padding-bottom: 0px!important;
+    background-color: #fff!important;
+    padding-top: calc(66px + 310px)!important;
+    background-size: 542px 259px!important;
+    height: 700px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #iPad-1 {
+    background-image: url("../../assets/img/ipad_air__c8xht6h7g7au_small.jpg")!important;
+    padding-bottom: 0px!important;
+    background-color: #fff!important;
+    padding-top: calc(66px + 310px)!important;
+    background-size: 542px 259px!important;
+    height: 700px!important;
+  }
+}
+
+@media (min-width: 768px) {
+  #iPad-1 {
+    text-align: left;
+    direction: ltr;
+  }
+}
+
+@media (max-width: 768px) {
+  #ipadpro-div1 {
+    text-align: center!important;
+    margin-left: 0!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #ipadpro-div {
+    text-align: center!important;
+    margin-left: 0!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #ipadpro-div1 {
+    text-align: center!important;
+    margin-left: 0!important;
+    margin-top: 10px!important;
+  }
+}
+
+#ipadpro-div {
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  img {
+    width: 107%!important;
+    margin-left: -19px!important;
+  }
+}
+
