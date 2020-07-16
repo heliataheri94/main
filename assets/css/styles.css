@@ -74,7 +74,13 @@
 #facetime-paragraph {
   font-size: 23px;
   font-weight: 300;
-  width: 450px;
+  /*width: 450px;*/
+}
+
+@media (min-width: 992px) {
+  #facetime-paragraph {
+    width: 450px;
+  }
 }
 
 #facetime-link {
@@ -90,5 +96,39 @@
   #text-col {
     text-align: center!important;
   }
+}
+
+.btn.btn-link.active.border.rounded-0.border-danger {
+}
+
+.brdr1.active {
+  border-color: rgb(235, 80, 146) !important;
+  background-color: transparent !important;
+  color: #e85f82 !important;
+  border-width: 0 0 2px 0;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.brdr2.active {
+  border-color: rgb(235, 80, 80) !important;
+  background-color: transparent !important;
+  color: rgb(235, 80, 80) !important;
+  border-width: 0 0 2px 0;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.brdr3.active {
+  border-color: rgb(154,80,235) !important;
+  background-color: transparent !important;
+  color: rgb(154,80,235) !important;
+  border-width: 0 0 2px 0;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.pluspoiter {
+  cursor: pointer;
 }
 
