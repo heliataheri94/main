@@ -95,6 +95,7 @@
 #airpod-link {
   font-size: 27px;
   font-weight: 400;
+  margin-right: 13px !important;
 }
 
 a {
@@ -106,5 +107,26 @@ a {
 }
 
 #col4-heading1 {
+}
+
+#playlist-link {
+  margin-right: 30px;
+  color: black;
+  text-decoration-line: none;
+}
+
+.list-unstyled.border.rounded-0.d-flex {
+  border-top: 0!important;
+  border-right: 0!important;
+  border-left: 0!important;
+}
+
+.btn.btn-link.border.rounded-0 {
+  border-top: 0!important;
+  border-right: 0!important;
+  border-left: 0!important;
+}
+
+.btn.btn-link.border.rounded-0.border-danger {
 }
 
