@@ -1,0 +1,110 @@
+#firstnav-links a {
+  color: white!important;
+  font-size: x-small;
+}
+
+#firstnavbar-nav {
+  border-bottom: 0!important;
+}
+
+#second-navbar {
+  opacity: 0.9;
+}
+
+#banner {
+  width: 100%;
+  height: 698px;
+  background-color: #9a50eb;
+}
+
+#product {
+}
+
+#producrt-list {
+  text-align: center;
+}
+
+#productlist-link {
+  color: white;
+  font-weight: 600;
+}
+
+#imageheading-h1 {
+  color: white;
+}
+
+#imageheading-h2 {
+  font-size: 57px;
+  color: white;
+  font-weight: 500;
+}
+
+#banner {
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  #banner {
+    height: 1000px;
+  }
+}
+
+@media (max-width: 768px) {
+  #airpod {
+    height: 1059px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #imageheading-h1 {
+    padding-top: 5px;
+    margin-top: 72px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #text-col {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .img-fluid {
+    margin-top: 40px !important;
+  }
+}
+
+#textcol-airpod {
+  text-align: center;
+}
+
+#imagecol-airpod {
+  text-align: center;
+}
+
+#airpod-heading1 {
+  color: white;
+}
+
+#airpod-heading2 {
+  font-size: 57px;
+  color: white;
+  font-weight: 500;
+}
+
+#airpod-link {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+a {
+  font-weight: 400;
+}
+
+#col4-1, #col4-2, #col4-3, #col4-4 {
+  text-align: center;
+}
+
+#col4-heading1 {
+}
+

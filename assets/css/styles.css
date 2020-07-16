@@ -1,0 +1,94 @@
+.navbar.navbar-dark.navbar-expand-md.bg-dark {
+  background-color: rgba(0,0,0,0.8)!important;
+  color: white;
+}
+
+.fa.fa-apple {
+  color: gray;
+}
+
+#first-nav .nav-item:not(:last-child) {
+  border: groove;
+  border-top: 0;
+  border-bottom: 0;
+  border-left: 0;
+  border-width: 1px;
+}
+
+#first-nav {
+  background-color: #444 !important;
+}
+
+@media (max-width: 768px) {
+  #search {
+    background-image: url("../../assets/img/hero-banner-homepage.image.small_2x.jpg")!important;
+  }
+}
+
+#search-onimage {
+  text-align: center;
+  padding-top: 0;
+  margin-left: 0;
+}
+
+#welcom-heading {
+  font-size: 47px;
+  font-weight: 400;
+}
+
+#search-onimage-1 {
+}
+
+#search-onimage-1 {
+  text-align: center;
+}
+
+#welcom-heading-1 {
+  font-size: 37px;
+}
+
+#product-1, #product-2, #product-3, #product-4, #product-5, #product-6, #product-7, #product-8, #product-9, #product-10, #product-11, #product-12 {
+  text-align: center;
+}
+
+#product-link {
+  color: black;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+#facetime {
+  border-right: 0!important;
+  border-left: 0!important;
+}
+
+#image-col {
+  text-align: center;
+}
+
+#facetime-heading {
+  font-size: 47px;
+  font-weight: 500;
+}
+
+#facetime-paragraph {
+  font-size: 23px;
+  font-weight: 300;
+  width: 450px;
+}
+
+#facetime-link {
+  font-size: 25px;
+  font-weight: 200;
+}
+
+#text-col {
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  #text-col {
+    text-align: center!important;
+  }
+}
+
